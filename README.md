@@ -1,5 +1,7 @@
 # react-dev-utils
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/calligraphic/react-dev-utils.svg)](https://greenkeeper.io/)
+
 This package includes some utilities used by [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 Please refer to its documentation:
 
